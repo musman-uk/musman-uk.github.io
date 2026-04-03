@@ -1,6 +1,6 @@
 # musman-uk.github.io
 
-This repository holds this [Landing page](https://musman-uk.github.io/) that is able to redirect to my [portfolio](https://github.com/musman-uk/portfolio)
+This repository holds this [landing page](https://musman-uk.github.io/) that is able to redirect to my [portfolio](https://github.com/musman-uk/portfolio)
 
 ---
 
