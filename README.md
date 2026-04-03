@@ -1,6 +1,8 @@
 # musman-uk.github.io
 
-Landing page that redirects to my portfolio
+[Landing page](https://musman-uk.github.io/) that redirects to my [portfolio](https://github.com/musman-uk/portfolio)
+
+---
 
 <sub>© Mohammed Usman</sub>
 
